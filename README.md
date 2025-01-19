@@ -54,4 +54,4 @@ npm run dev
 
 Check out the live version of the project here:
 
-[iPhone-web-Template](https://iphone-website-eight-alpha.vercel.app/)
+[iPhone-web-Template](https://i-phone-website-by-yuji-tech.vercel.app/) 
