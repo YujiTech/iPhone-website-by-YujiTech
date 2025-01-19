@@ -27,7 +27,7 @@ Follow these simple steps to get the project running on your local system:
 First, clone the repository to your local machine using the command below:
 
 ```bash
-git clone https://github.com/prasadlakhara/iPhone-website.git
+git clone https://github.com/YujiTech/iPhone-website-by-YujiTech.git 
 ```
 
 **Installation**
